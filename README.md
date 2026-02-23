@@ -54,7 +54,7 @@ El dataset **no está incluido** en este repositorio por su tamaño. Debes desca
 
 ### 2. Ejecutar el notebook
 
-Abre `Siniestros_Bogota.ipynb` en Jupyter y ejecuta todas las celdas en orden. El notebook intentará cargar el archivo desde la URL pública automáticamente; si falla, usará el CSV local que descargaste.
+Abre `Siniestros_Bogota.ipynb` en Jupyter y ejecuta todas las celdas en orden. El notebook ejecutará el archivo **historico_siniestros_bogota_d.c_-.csv** local que descargaste en la misma carpeta del notebook.
 
 ### 3. Gráficos exportados
 
